@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Graph-Theoretic Interpretations of the Nevanlinna Representation"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
@@ -11,4 +11,4 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Nevanlinna representation (or Cauchy Transform) produces a rational self-map of the complex upper-half plane. Translating this function-theoretic terminology in a graph-theoretic and linear-algebraic context, we can keep track of the number of paths starting at and returning to the same vertex. Our goal was to compare graph structure to the analytic and asymptotic behavior of its representing function.
