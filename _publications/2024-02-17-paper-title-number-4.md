@@ -3,7 +3,7 @@ title: "Mathematically Modeling Chronic Myelogenous Leukemia"
 collection: publications
 category: projects
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Supervisor: Dr. Dana Paquin'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 slidesurl: ''
