@@ -1,7 +1,7 @@
 ---
 title: "Using Machine Learning to Improve Targeting for Farmer Training"
 collection: publications
-category: manuscripts
+#category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
