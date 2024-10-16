@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF of my full CV can be found [here](https://giothai.github.io/files\Giovani_Thai_CV_for_PhD_Applications.pdf).
+
 Education
 ======
 * M.S. in Mathematics, California Polytechnic State University, San Luis Obispo, 2025 (expected)
 * B.S. in Applied Mathematics, California Polytechnic State University, San Luis Obispo, 2023
-  * Minors in Statistics, Anthropology & Geography
+  * Minors in: Statistics, Anthropology & Geography
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
