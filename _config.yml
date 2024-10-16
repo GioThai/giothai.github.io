@@ -21,7 +21,7 @@ repository               : "GioThai/giothai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "CSU_NR.png"
   name             : "Giovani Thai"
   pronouns         :  "he/him"  
   #bio              : "Applied Mathematician, Prospective PhD Applicant"
@@ -78,7 +78,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Research Projects'    
   conferences:
     title: 'Conference Papers'
 
