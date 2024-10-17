@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my full CV can be found [here](https://giothai.github.io/files\Giovani_Thai_CV_for_PhD_Applications.pdf).
+My full CV can be found [here](https://giothai.github.io/files\Giovani_Thai_CV_for_PhD_Applications.pdf).
 
 Education
 ======
@@ -60,7 +60,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -2,7 +2,7 @@
 title: "Mathematically Modeling Chronic Myelogenous Leukemia"
 collection: publications
 category: projects
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/butts
 excerpt: 'Supervisor: Dr. Dana Paquin'
 date: 2024-12-01
 venue: 'Mathematical Biosciences and Engineering'
