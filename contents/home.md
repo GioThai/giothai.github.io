@@ -7,9 +7,12 @@ My culminating experience at Cal Poly will be my master's thesis on modeling the
 giovanithai@gmail.com
 
 #### Education
-M.S. Mathematics (Applied Mathematics Specialization), California Polytechnic State University, San Luis Obispo, 2023—2025 (expected).\
+M.S. Mathematics, California Polytechnic State University, San Luis Obispo, 2023—2025 (expected).\
+- Applied Mathematics Specialization
+- Thesis Advisor: Dr. Dana Paquin
 B.S. Applied Mathematics, California Polytechnic State University, San Luis Obispo, 2019—2023.
 - Minors in Statistics, Anthropology & Geography
+- Senior Project Advisor: Dr. Elena Dimitrova
 
 #### Research Interests
 Applied Mathematics, Mathematical Biology, Social Network Analysis, Complex Social Systems.
