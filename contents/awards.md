@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- Graduate Assistant Fellowship, Fall 2024.
 
-- Freshman Academic Scholarship, 2022.
+- Edward van Duyne Scholarship, Spring 2024.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Cal Poly Beacon Research Grant, Winter 2023.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Cal Poly Frost Undergraduate Research Fund, Summer 2024/2023/2022.
