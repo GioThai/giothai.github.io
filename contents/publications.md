@@ -21,4 +21,4 @@
     - [[Poster]](https://giothai.github.io/static/assets/PDF/Frost_Summer_Research_Poster_2022.pdf) presented at 2022 Cal Poly Department of Mathematics Frost Poster Symposium in San Luis Obispo, CA.
     - [[Talk Slides]](https://giothai.github.io/static/assets/PDF/CSU_JMM_2022_Graphs_as_Games.pdf) given at 2022 CSU Mathematical Sciences Conference in Northridge, CA.
 
-<strong>My full academic profile can be found [here](https://giothai.github.io/static/assets/PDF/Giovani_Thai_CV_for_PhD_Applications.pdf).</strong>
+<strong>My full academic profile can be found [here](https://giothai.github.io/static/assets/PDF/Giovani_Thai_Official_CV.pdf).</strong>
