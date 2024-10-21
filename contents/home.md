@@ -11,7 +11,7 @@ giovanithai[at]gmail.com
 #### Education
 M.S., Mathematics (Applied Mathematics Specialization), California Polytechnic State University, San Luis Obispo, 2023—2025 (expected).\
 B.S., Applied Mathematics, California Polytechnic State University, San Luis Obispo, 2019—2023.
-+ Minors in Statistics, Anthropology & Geography
+- Minors in Statistics, Anthropology & Geography
 
 #### Research Interests
 Applied Mathematics, Mathematical Biology, Social Network Analysis, Complex Social Systems.
