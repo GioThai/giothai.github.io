@@ -1,4 +1,4 @@
-<![![GioThai](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/GioThai)>
+[![GioThai](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/GioThai)
 
 I am a graduate mathematics student at California Polytechnic State University, San Luis Obispo (I was also an undergraduate student here!) I'm interested in applied math for modeling biological and social phenomena, motivated to use what I've learned in mathematical biology as a stepping stone for understanding complex social systems.
 
@@ -9,8 +9,8 @@ My culminating experience at Cal Poly will be my master's thesis on modeling the
 giovanithai[at]gmail.com
 
 #### Education
-M.S., Mathematics (Applied Mathematics Specialization), California Polytechnic State University, San Luis Obispo, 2023—2025 (expected).\
-B.S., Applied Mathematics, California Polytechnic State University, San Luis Obispo, 2019—2023.
+M.S. Mathematics (Applied Mathematics Specialization), California Polytechnic State University, San Luis Obispo, 2023—2025 (expected).\
+B.S. Applied Mathematics, California Polytechnic State University, San Luis Obispo, 2019—2023.
 - Minors in Statistics, Anthropology & Geography
 
 #### Research Interests
