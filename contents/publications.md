@@ -17,7 +17,7 @@
 - Lin, J., Ellwein, S., <strong>Thai, G.</strong> (2023). Using Machine Learning to Improve Treatment Targeting in Farmer Training.
     - [[Poster]](https://giothai.github.io/static/assets/PDF/BEACoN_Research_Poster.pdf) presented at 2023 Cal Poly Beacon Research Poster Symposium in San Luis Obispo, CA.
 
-- Liese, J., Klig, C., Lane, R., Moscot, M., <strong>Thai, G.</strong> (2022). Graph-Theoretic Interpretations of the Nevanlinna Representation.
+- Liese, J., Klig, C., Lane, R., Moscot, M., <strong>Thai, G.</strong> (2022). Characterizing Non-Singular Graphs with Games.
     - [[Poster]](https://giothai.github.io/static/assets/PDF/Frost_Summer_Research_Poster_2022.pdf) presented at 2022 Cal Poly Department of Mathematics Frost Poster Symposium in San Luis Obispo, CA.
     - [[Talk Slides]](https://giothai.github.io/static/assets/PDF/CSU_JMM_2022_Graphs_as_Games.pdf) given at 2022 CSU Mathematical Sciences Conference in Northridge, CA.
 
